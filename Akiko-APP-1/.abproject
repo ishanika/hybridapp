@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Akiko-APP-1",
+  "ProjectGuid": "b9bb213f-f29f-49f2-9f16-5b7bb2ec26eb",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AkikoAPP1",
+  "DisplayName": "Akiko-APP-1",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{0da74de4-f695-4876-becf-d3ee2b38b986}",
+  "WP8ProductID": "{a9380fa9-e876-4f97-b277-9690d7bdde4a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.AkikoAPP1",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
